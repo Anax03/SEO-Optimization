@@ -587,7 +587,7 @@ p {
   margin: auto auto auto auto;
 }
 p {
-  font-size: 11px;
+  font-size: 12px;
 }
 .tight-width-whitespace {
   max-width: 600px;
@@ -680,11 +680,9 @@ h4 {
   color: #000 !important;
   text-align: center;
 }
-
 #buttonEnvoyer {
   width: 50%;
 }
-
 .btn-atomic-tangerine:hover {
   background: #e46e37 !important;
   color: #fff !important;
