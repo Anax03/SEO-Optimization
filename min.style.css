@@ -678,8 +678,13 @@ h4 {
 .btn-atomic-tangerine {
   background: #ff8548;
   color: #000 !important;
+  text-align: center;
+}
+
+#buttonEnvoyer {
   width: 50%;
 }
+
 .btn-atomic-tangerine:hover {
   background: #e46e37 !important;
   color: #fff !important;
