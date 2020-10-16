@@ -666,6 +666,12 @@ h4 {
 .bgc-dark-slate-blue {
   background-color: #364577;
 }
+
+#paragraphParlonsWeb {
+  margin-top: 0.6rem;
+  font-size: 1.6rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 .bgc-atomic-tangerine {
   background-color: #ffa070;
 }
